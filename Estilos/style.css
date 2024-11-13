@@ -13,7 +13,7 @@ html, body {
     }
 
     body{ 
-        background: url('../pacote-d013/imagens/fundo-madeira.jpg') no-repeat top center;
+        background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
         background-size: cover;
         background-attachment: fixed;
     
@@ -33,7 +33,7 @@ html, body {
         height: 627px;
         width: 311px;
         background-color: blue;
-        background: url('../pacote-d013/imagens/frame-iphone.png') no-repeat;
+        background: url('../imagens/frame-iphone.png') no-repeat;
     }
     iframe#tela {
         position: relative;
